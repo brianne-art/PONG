@@ -7,6 +7,9 @@ TagManager:
   - Player1
   - paddle
   - sidewall
+  - endwall
+  - leftwall
+  - rightwall
   layers:
   - Default
   - TransparentFX
